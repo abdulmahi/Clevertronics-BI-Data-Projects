@@ -1,4 +1,5 @@
-# 💡 Clevertronics BI Projects
+# <img width="162" height="49" alt="image" src="https://github.com/user-attachments/assets/26cd9429-9ccb-44ab-9104-5045b97a0b87" />
+ Clevertronics BI Projects
 
 This repository documents my work as a **Business Intelligence Developer** at **Clevertronics**, an electronics manufacturing company specialising in emergency lighting solutions.  
 It showcases projects across **Power BI**, **SQL Data Warehouse**, **NetSuite ERP**, and **Celigo ETL** integration.
