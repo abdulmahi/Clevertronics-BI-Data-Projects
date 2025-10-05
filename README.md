@@ -33,7 +33,5 @@ My role was to unify data, automate reporting, and modernize the analytics stack
 - Power BI now directly connects to SharePoint ensuring up-to-date data.
 
 ---
-
-## 🧾 Author
 **© 2025 Abdul Mahi**  
 All rights reserved.  
